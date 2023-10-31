@@ -189,4 +189,3 @@ Displaying the time in French looks like this:
 Displaying the time in English looks like this:
 
 ![](images/pic6.png)
-
